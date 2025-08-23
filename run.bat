@@ -1,0 +1,1 @@
+sbcl --noinform --load load.lisp --load miniclos_layer_test.lisp --quit
